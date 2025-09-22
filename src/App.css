@@ -18,8 +18,8 @@ body {
 
 .headline {
   background: transparent;
-  color:rgb(230, 173, 254);
-  /* color: #fff; */
+/*   color:rgb(230, 173, 254); */
+  color: #fff;
   font-size: 14px;
   padding: 5px 0 0 0;
   font-weight: bold;
