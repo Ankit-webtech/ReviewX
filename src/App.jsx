@@ -45,7 +45,7 @@ export default function App() {
       <div className="headline">
         <marquee behavior="scroll" direction="left">
           🚀 ReviewX: An AI-powered Code Review Tool | Write Code ✍️ | Get
-          Instant AI Feedback ⚡ | Improve Smarter! 💡
+          Instant AI Feedback ⚡ | Improve Smarter! 💡 | <a href="https://ankit-portfolio-indol.vercel.app/">Contact-Us </a>
         </marquee>
       </div>
     <main>
